@@ -1,0 +1,3 @@
+CAB
+ABC
+BCA
